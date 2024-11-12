@@ -1,3 +1,6 @@
+//create a function highestsore 1d array called return highest score
+
+
 function highestscorer(playersinfo){
     var highestscorer=playersinfo[0][0];
     var highestscorer=playersinfo[0][1];
